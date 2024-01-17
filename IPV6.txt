@@ -514,8 +514,6 @@ iHOT,#genre#
 
 
 央视频道,#genre#
-CCTV1,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
-CCTV1,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/PLTV/1/224/3221230370/1.m3u8
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/PLTV/1/224/3221230514/1.m3u8
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/PLTV/1/224/3221230526/1.m3u8
@@ -688,8 +686,6 @@ CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/PLTV/1/224/3221230526/1.m3u
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/PLTV/1/224/3221230571/1.m3u8
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/PLTV/1/224/3221230656/1.m3u8
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/PLTV/1/224/3221230971/1.m3u8
-CCTV2,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV2,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
 CCTV2,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/PLTV/1/224/3221231008/1.m3u8
 CCTV2,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/PLTV/1/224/3221231008/1.m3u8
 CCTV2,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/PLTV/1/224/3221230929/1.m3u8
@@ -700,7 +696,6 @@ CCTV2,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/PLTV/1/224/3221230896/1.m3u
 CCTV2,http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/PLTV/1/224/3221230896/1.m3u8
 CCTV2,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/PLTV/1/224/3221230929/1.m3u8
 CCTV2,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/PLTV/1/224/3221230929/1.m3u8
-CCTV3,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV3,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/PLTV/1/224/3221230970/1.m3u8
 CCTV3,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/PLTV/1/224/3221230909/1.m3u8
 CCTV3,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/PLTV/1/224/3221230912/1.m3u8
@@ -927,11 +922,6 @@ CCTV4,http://[2409:8087:2001:20:2800:0:df6e:eb07]:80/PLTV/1/224/3221231032/1.m3u
 CCTV4,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/PLTV/1/224/3221230582/1.m3u8
 CCTV4,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/PLTV/1/224/3221230610/1.m3u8
 CCTV4,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/PLTV/1/224/3221231032/1.m3u8
-CCTV4,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV4,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001221/index.m3u8
-CCTV5,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001850/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV5,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001187/index.m3u8
-CCTV5,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/PLTV/1/224/3221230611/1.m3u8
 CCTV5,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/PLTV/1/224/3221230361/1.m3u8
 CCTV5,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/PLTV/1/224/3221230612/1.m3u8
 CCTV5,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/PLTV/1/224/3221230887/1.m3u8
@@ -995,7 +985,6 @@ CCTV5,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/PLTV/1/224/3221230612/1.m3u
 CCTV5,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/PLTV/1/224/3221230976/1.m3u8
 CCTV5,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/PLTV/1/224/3221230976/1.m3u8
 CCTV5,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/PLTV/1/224/3221230976/1.m3u8
-CCTV5+,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV5+,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/PLTV/1/224/3221231011/1.m3u8
 CCTV5+,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/PLTV/1/224/3221231011/1.m3u8
 CCTV5+,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/PLTV/1/224/3221230605/1.m3u8
@@ -1044,9 +1033,6 @@ CCTV5+,http://[2409:8087:2001:20:2800:0:df6e:eb07]:80/PLTV/1/224/3221230883/1.m3
 CCTV5+,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/PLTV/1/224/3221230397/1.m3u8
 CCTV5+,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/PLTV/1/224/3221230397/1.m3u8
 CCTV5+,http://[2409:8087:2001:20:2800:0:df6e:eb14]:80/PLTV/1/224/3221230883/1.m3u8
-CCTV5+,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001008/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV6,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001859/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001188/index.m3u8
 CCTV6,http://[2409:8087:2001:20:2800:0:df6e:eb14]:80/PLTV/1/224/3221230893/1.m3u8
 CCTV6,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/PLTV/1/224/3221230376/1.m3u8
 CCTV6,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/PLTV/1/224/3221230376/1.m3u8
@@ -1059,7 +1045,6 @@ CCTV6,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/PLTV/1/224/3221230983/1.m3u
 CCTV6,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/PLTV/1/224/3221230906/1.m3u8
 CCTV6,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/PLTV/1/224/3221230983/1.m3u8
 CCTV6,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/PLTV/1/224/3221230906/1.m3u8
-CCTV7,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001236/index.m3u8
 CCTV7,http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/PLTV/1/224/3221230527/1.m3u8
 CCTV7,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/PLTV/1/224/3221230527/1.m3u8
 CCTV7,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/PLTV/1/224/3221230524/1.m3u8
@@ -1068,9 +1053,6 @@ CCTV7,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/PLTV/1/224/3221230527/1.m3u
 CCTV7,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/PLTV/1/224/3221230979/1.m3u8
 CCTV7,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/PLTV/1/224/3221230527/1.m3u8
 CCTV7,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/PLTV/1/224/3221230979/1.m3u8
-CCTV7,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001291/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV8,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001869/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV8,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001189/index.m3u8
 CCTV8,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/PLTV/1/224/3221231014/1.m3u8
 CCTV8,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/PLTV/1/224/3221231014/1.m3u8
 CCTV8,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/PLTV/1/224/3221230399/1.m3u8
@@ -1086,9 +1068,6 @@ CCTV9,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/PLTV/1/224/3221230520/1.m3u
 CCTV9,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/PLTV/1/224/3221230520/1.m3u8
 CCTV9,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/PLTV/1/224/3221231001/1.m3u8
 CCTV9,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/PLTV/1/224/3221231001/1.m3u8
-CCTV9,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001294/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV10,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001238/index.m3u8
-CCTV10,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001288/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV10,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/PLTV/1/224/3221230982/1.m3u8
 CCTV10,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/PLTV/1/224/3221230982/1.m3u8
 CCTV10,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/PLTV/1/224/3221230572/1.m3u8
@@ -1098,7 +1077,6 @@ CCTV11,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/PLTV/1/224/3221230445/1.m3
 CCTV11,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/PLTV/1/224/3221230445/1.m3u8
 CCTV11,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/PLTV/1/224/3221231017/1.m3u8
 CCTV11,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/PLTV/1/224/3221231017/1.m3u8
-CCTV11,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001327/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV12,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001239/index.m3u8
 CCTV12,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001289/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV12,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/PLTV/1/224/3221231004/1.m3u8
@@ -1870,23 +1848,58 @@ CETV4,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/PLTV/1/224/3221230539/1.m3u
 崇川,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/PLTV/1/224/3221231028/1.m3u8
 崇川,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/PLTV/1/224/3221231028/1.m3u8
 
+🇨🇳小品合集,#genre#
+欢乐集结号-每天笑不停,https://live.metshop.top/yy/1382741642
+赵本山《蓝光版》,https://live.metshop.top/yy/32160832
+花儿开心吧,https://live.metshop.top/yy/1354930984
+欢乐集结号,https://live.metshop.top/yy/1354931582
+你最爱的宋小宝,https://live.metshop.top/yy/1354936198
+宋小宝小品合集,https://live.metshop.top/yy/1354931577
+本山快乐营1,https://live.metshop.top/yy/1354936209
+宋小宝春晚小品合集,https://live.metshop.top/yy/1382736866
+爆笑小品,https://live.metshop.top/yy/1354931503
+贾玲春晚小品,https://live.metshop.top/yy/1382736720
+欢乐集结号,https://live.metshop.top/yy/1382735550
+小宝让你乐翻天：6到9集,https://live.metshop.top/yy/1354930971
+欢乐集结号3,https://live.metshop.top/yy/1382736822
+怀旧小品,https://live.metshop.top/yy/1382736821
+欢乐集结号2,https://live.metshop.top/yy/1354930919
+本山快乐营,https://live.metshop.top/yy/1354933529
+欢乐集结号58-70,https://live.metshop.top/yy/1382745119
+本山快乐营-爆笑小品,https://live.metshop.top/yy/1354930948
+本山快乐营2,https://live.metshop.top/yy/1382736718
+开心麻花街,https://live.metshop.top/yy/1354926643
+花儿开心吧-小品,https://live.metshop.top/yy/1382736917
+王牌逗王牌-喜剧,https://live.metshop.top/yy/1354658048
+吐槽大会 第5季,https://live.metshop.top/yy/1354889009
+喜乐街,https://live.metshop.top/yy/1354936231
+巩汉林春晚小品合集,https://live.metshop.top/yy/1354889035
+小沈阳春晚小品,https://live.metshop.top/yy/1382749941
+公主嫁到,https://live.metshop.top/yy/1382736915
+欢乐集结号4,https://live.metshop.top/yy/1382736889
+赵本山爆笑小品2,https://live.metshop.top/yy/1354936217
+欢乐集结号,https://live.metshop.top/yy/1382749911
+本山快乐营,https://live.metshop.top/yy/1382736852
+笑傲江湖 第1季,https://live.metshop.top/yy/1382749896
+笑傲江湖 第2季,https://live.metshop.top/yy/1382736914
+
 🇨🇳Y Y,#genre#
 好久不见-武林外传,https://live.metshop.top/yy/1355914397
 豪哥带我们发财,https://live.metshop.top/yy/23402146
 纪晓岚,https://live.metshop.top/yy/1354143978
-【鹿鼎记】金庸经典,https://live.metshop.top/yy/28265277
+鹿鼎记金庸经典,https://live.metshop.top/yy/28265277
 弹幕天团 下饭神剧,https://live.metshop.top/yy/23512910
-【盜暮笔记】24h,https://live.metshop.top/yy/1382702247
+盜暮笔记24h,https://live.metshop.top/yy/1382702247
 神医喜来乐,https://live.metshop.top/yy/1382714119
 武林外传,https://live.metshop.top/yy/1354752120
-【战狼3吴京】首播,https://live.metshop.top/yy/1456668939
-【济公】游本昌,https://live.metshop.top/yy/25519088
+战狼3吴京首播,https://live.metshop.top/yy/1456668939
+济公游本昌,https://live.metshop.top/yy/25519088
 斗破苍穹玄幻剧,https://live.metshop.top/yy/1356051105
 超级吓人鬼片 恐怖片,https://live.metshop.top/yy/1355641195
 隋唐英雄传 蓝光,https://live.metshop.top/yy/1352475619
 幸福满院,https://live.metshop.top/yy/1382737886
 超喜剧地下交通站男神贾贵,https://live.metshop.top/yy/1353428972
-【新三国】蓝光版,https://live.metshop.top/yy/1382705738
+新三国蓝光版,https://live.metshop.top/yy/1382705738
 知否知否应是绿肥红瘦,https://live.metshop.top/yy/21881901
 绝版电影 600部,https://live.metshop.top/yy/1382764593
 正阳门下,https://live.metshop.top/yy/1354931580
@@ -1896,7 +1909,7 @@ CETV4,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/PLTV/1/224/3221230539/1.m3u
 举起手来-惊险抗日,https://live.metshop.top/yy/1382736877
 抗日奇侠 首播,https://live.metshop.top/yy/39204655
 情满四合院,https://live.metshop.top/yy/30736888
-【战狼4】吴京老师,https://live.metshop.top/yy/1354784284
+战狼4吴京老师,https://live.metshop.top/yy/1354784284
 赵本山《超清版》,https://live.metshop.top/yy/1382683959
 我的兄弟叫宝强,https://live.metshop.top/yy/1354752117
 少年包青天1-3蓝光版,https://live.metshop.top/yy/38498680
@@ -1906,7 +1919,7 @@ CETV4,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/PLTV/1/224/3221230539/1.m3u
 绝版电影 女鬼,https://live.metshop.top/yy/1454587259
 电影 古惑仔全集,https://live.metshop.top/yy/1354507447
 笑傲江湖 4K超清,https://live.metshop.top/yy/1354282410
-【火蓝刀锋】臭鱼,https://live.metshop.top/yy/1354784966
+火蓝刀锋臭鱼,https://live.metshop.top/yy/1354784966
 我和僵尸有个约会,https://live.metshop.top/yy/1354143966
 宰相刘罗锅,https://live.metshop.top/yy/1353892468
 燕双鹰,https://live.metshop.top/yy/1354143942
@@ -1921,7 +1934,7 @@ YY恐怖电影,https://live.metshop.top/yy/24066336
 纪晓岚,https://live.metshop.top/yy/1352227227
 英叔僵尸 3000部,https://live.metshop.top/yy/1353685311
 经典鬼片3000部,https://live.metshop.top/yy/29460894
-【赌神片 动作片 港片】,https://live.metshop.top/yy/1355112116
+赌神片 动作片 港片,https://live.metshop.top/yy/1355112116
 港片电影集,https://live.metshop.top/yy/1455225203
 新白娘子传奇,https://live.metshop.top/yy/1354490667
 济公游记,https://live.metshop.top/yy/1355265814
@@ -1934,20 +1947,20 @@ YY恐怖电影,https://live.metshop.top/yy/24066336
 83射雕英雄传,https://live.metshop.top/yy/1354210357
 丫头动漫 斗罗斗破,https://live.metshop.top/yy/1458722520
 东北一家人,https://live.metshop.top/yy/1355273385
-【新三国】萌儿陪看,https://live.metshop.top/yy/29216766
+新三国萌儿陪看,https://live.metshop.top/yy/29216766
 66车讯,https://live.metshop.top/yy/1382571192
-【战狼3吴京】独播,https://live.metshop.top/yy/37999586
+战狼3吴京独播,https://live.metshop.top/yy/37999586
 雪中悍刀行,https://live.metshop.top/yy/1382660835
 速度与激情全集,https://live.metshop.top/yy/1382749892
 港片鬼片电影,https://live.metshop.top/yy/1355364378
-【二炮手】孙红雷,https://live.metshop.top/yy/1354330324
-欢乐集结号-每天笑不停,https://live.metshop.top/yy/1382741642
+二炮手孙红雷,https://live.metshop.top/yy/1354330324
+
+
 《仙侠》开局无敌了,https://live.metshop.top/yy/29600150
 吕小羊鬼片 正在直播,https://live.metshop.top/yy/1354792118
 林正英 僵尸 鬼片,https://live.metshop.top/yy/1351505899
 进来 陪你看动漫,https://live.metshop.top/yy/1352866135
 神雕侠侣,https://live.metshop.top/yy/1351762426
-赵本山《蓝光版》,https://live.metshop.top/yy/32160832
 《石敢当》六耳猕猴,https://live.metshop.top/yy/1394156613
 鹿鼎记-周星驰版,https://live.metshop.top/yy/1354658049
 武林外传爆笑全场,https://live.metshop.top/yy/1355269576
@@ -1955,24 +1968,23 @@ YY恐怖电影,https://live.metshop.top/yy/24066336
 泡芙陪你看电影,https://live.metshop.top/yy/24407222
 经典鬼片 绝版好看,https://live.metshop.top/yy/1353850051
 叶问全集,https://live.metshop.top/yy/1382828771
-吴京首播【战狼3】,https://live.metshop.top/yy/1354330332
+吴京首播战狼3,https://live.metshop.top/yy/1354330332
 天龙八部,https://live.metshop.top/yy/1351814644
 国内外惊悚恐怖片,https://live.metshop.top/yy/1356075281
 纪晓岚专属,https://live.metshop.top/yy/63826933
 燕双鹰,https://live.metshop.top/yy/1352227153
 港片鬼片全集,https://live.metshop.top/yy/1459869766
-爆笑小品,https://live.metshop.top/yy/1354931503
 经典电影,https://live.metshop.top/yy/1355142167
 火蓝刀锋,https://live.metshop.top/yy/1382737892
 武工队传奇,https://live.metshop.top/yy/1354790484
 天龙八部蓝光,https://live.metshop.top/yy/1355652820
 相亲交友电影频道,https://live.metshop.top/yy/1453996620
-【炊事班的故事】下饭剧,https://live.metshop.top/yy/1382656457
+炊事班的故事下饭剧,https://live.metshop.top/yy/1382656457
 港片赌片 3000部,https://live.metshop.top/yy/1355076627
 燕双鹰系列,https://live.metshop.top/yy/1457622044
 探案！探案！,https://live.metshop.top/yy/1382829413
 神探狄仁杰2,https://live.metshop.top/yy/1382828767
-【血色浪漫】经典回顾,https://live.metshop.top/yy/33369999
+血色浪漫经典回顾,https://live.metshop.top/yy/33369999
 火凤凰之战狼七,https://live.metshop.top/yy/1463088777
 鬼片赌片经典电影,https://live.metshop.top/yy/1351496216
 真实案件系列,https://live.metshop.top/yy/1382671124
@@ -1981,7 +1993,7 @@ YY恐怖电影,https://live.metshop.top/yy/24066336
 24H国漫热播,https://live.metshop.top/yy/1353937086
 倚天屠龙记,https://live.metshop.top/yy/1354755003
 布丁-玄幻电影正在直播,https://live.metshop.top/yy/1455460998
-【港片】赌片 动作,https://live.metshop.top/yy/24921161
+港片赌片 动作,https://live.metshop.top/yy/24921161
 武林外传,https://live.metshop.top/yy/1353852605
 少年包青天-蓝光版,https://live.metshop.top/yy/1456630506
 狂飙 蓝光,https://live.metshop.top/yy/1382787686
@@ -2000,11 +2012,11 @@ YY恐怖电影,https://live.metshop.top/yy/24066336
 好先生,https://live.metshop.top/yy/79382500
 雪中悍刀行,https://live.metshop.top/yy/1354943110
 神探狄仁杰1,https://live.metshop.top/yy/1354930934
-【成龙经典】动作,https://live.metshop.top/yy/34460526
+成龙经典动作,https://live.metshop.top/yy/34460526
 燕双鹰专场,https://live.metshop.top/yy/23026835
 笑傲江湖,https://live.metshop.top/yy/1354930909
-【神雕侠侣】金庸经典,https://live.metshop.top/yy/1382704651
-【动漫】斗罗斗破超清全屏,https://live.metshop.top/yy/28796627
+神雕侠侣金庸经典,https://live.metshop.top/yy/1382704651
+动漫斗罗斗破超清全屏,https://live.metshop.top/yy/28796627
 少年包青天,https://live.metshop.top/yy/1382651363
 斗罗斗破,https://live.metshop.top/yy/1354768828
 薛元帅传奇,https://live.metshop.top/yy/31313785
@@ -2013,34 +2025,34 @@ YY恐怖电影,https://live.metshop.top/yy/24066336
 经典动漫,https://live.metshop.top/yy/22777075
 神探狄仁杰,https://live.metshop.top/yy/38338029
 雪儿动漫,https://live.metshop.top/yy/1354143938
-少年歌行【蓝光】,https://live.metshop.top/yy/1450556636
+少年歌行蓝光,https://live.metshop.top/yy/1450556636
 吃鱼了,https://live.metshop.top/yy/1382764587
 妹子高分搞笑电影,https://live.metshop.top/yy/33478222
 新三国,https://live.metshop.top/yy/26744898
-【电影】超然巨作,https://live.metshop.top/yy/29170933
+电影超然巨作,https://live.metshop.top/yy/29170933
 天道-9.2高分好剧,https://live.metshop.top/yy/1382735574
 情满四合院,https://live.metshop.top/yy/1382736888
 双月之城-国漫,https://live.metshop.top/yy/1382736907
-【天龙八部】蓝光超清,https://live.metshop.top/yy/28996058
+天龙八部蓝光超清,https://live.metshop.top/yy/28996058
 德爷单挑荒野,https://live.metshop.top/yy/27772604
 经典动漫,https://live.metshop.top/yy/24180320
 案发现场（1-3）,https://live.metshop.top/yy/31368110
 经典港片电影,https://live.metshop.top/yy/1382793140
 鬼片 恐怖片超好看,https://live.metshop.top/yy/1382780025
-【林正英】僵尸 鬼片,https://live.metshop.top/yy/30668277
+林正英僵尸 鬼片,https://live.metshop.top/yy/30668277
 无敌燕双鹰,https://live.metshop.top/yy/1354825244
 风筝,https://live.metshop.top/yy/1382828770
-【雪豹】超经典,https://live.metshop.top/yy/1450496699
+雪豹超经典,https://live.metshop.top/yy/1450496699
 正阳门下小女人,https://live.metshop.top/yy/1508778570
 士兵突击,https://live.metshop.top/yy/1382828766
 读心神探,https://live.metshop.top/yy/1382736875
-记忆中的李连杰·····,https://live.metshop.top/yy/1454390555
-二龙湖浩哥【经典搞笑】,https://live.metshop.top/yy/28205255
+记忆中的李连杰,https://live.metshop.top/yy/1454390555
+二龙湖浩哥经典搞笑,https://live.metshop.top/yy/28205255
 打狗棍,https://live.metshop.top/yy/1354773122
 经典港片 3000部,https://live.metshop.top/yy/1353059120
 送欢乐,https://live.metshop.top/yy/34093016
 皮蛋影视 正在直播,https://live.metshop.top/yy/23055599
-【动漫】斗罗斗破,https://live.metshop.top/yy/1353098382
+动漫斗罗斗破,https://live.metshop.top/yy/1353098382
 地下交通站,https://live.metshop.top/yy/1382736795
 战争 二战 《狙击电影》,https://live.metshop.top/yy/1450828388
 为什么你一直是单身,https://live.metshop.top/yy/89431014
@@ -2050,25 +2062,24 @@ YY恐怖电影,https://live.metshop.top/yy/24066336
 怒海潜沙 &重启全集,https://live.metshop.top/yy/1354744544
 港剧《驼枪师姐》,https://live.metshop.top/yy/1382688521
 系列电视剧,https://live.metshop.top/yy/1458015189
-【电影】顶级动作电影,https://live.metshop.top/yy/24923327
+电影顶级动作电影,https://live.metshop.top/yy/24923327
 港片 喜剧 动作,https://live.metshop.top/yy/1355480591
-【港台】鬼片 惊悚 喜剧,https://live.metshop.top/yy/1351030377
+港台鬼片 惊悚 喜剧,https://live.metshop.top/yy/1351030377
 动漫,https://live.metshop.top/yy/1382747970
 野山鹰-影视剧,https://live.metshop.top/yy/1354932395
 《神雕侠侣》黯然销魂,https://live.metshop.top/yy/1394000563
 女鬼 绝版电影,https://live.metshop.top/yy/1355479289
 彭禺厶鬼怪奇幻系列电影,https://live.metshop.top/yy/1355249116
 24小时循环播电视剧,https://live.metshop.top/yy/53320802
-花儿开心吧,https://live.metshop.top/yy/1354930984
 盗慕恐怖惊辣,https://live.metshop.top/yy/1382748585
-【战狼3】吴京首播,https://live.metshop.top/yy/1354752072
+战狼3吴京首播,https://live.metshop.top/yy/1354752072
 林正英 九叔 僵尸 鬼片,https://live.metshop.top/yy/1382828957
 高分港片电影,https://live.metshop.top/yy/28099939
 变形金刚,https://live.metshop.top/yy/1382736803
 布丁-玄幻电影正在直播,https://live.metshop.top/yy/1455460998
 绝版电影超好看,https://live.metshop.top/yy/59719179
 寻秦记-穿越剧经典,https://live.metshop.top/yy/1382749900
-【老九门】首播,https://live.metshop.top/yy/1353877164
+老九门首播,https://live.metshop.top/yy/1353877164
 军旅电视剧,https://live.metshop.top/yy/1352575322
 唐朝鬼事录24h陪你看,https://live.metshop.top/yy/1355171357
 风吹半夏,https://live.metshop.top/yy/1354806550
@@ -2083,17 +2094,17 @@ YY恐怖电影,https://live.metshop.top/yy/24066336
 西游记后传,https://live.metshop.top/yy/1382736846
 斗罗斗破动漫,https://live.metshop.top/yy/1420843376
 父母爱情,https://live.metshop.top/yy/1382746276
-【经典港片】佟瑶,https://live.metshop.top/yy/23531261
+经典港片佟瑶,https://live.metshop.top/yy/23531261
 第一滴血全集,https://live.metshop.top/yy/1354932355
 电影百团大战,https://live.metshop.top/yy/1382736871
 李连杰功夫 经典武侠,https://live.metshop.top/yy/74613175
-[ 经典] 鹿鼎记,https://live.metshop.top/yy/1355526531
+经典鹿鼎记,https://live.metshop.top/yy/1355526531
 彭禺厶鬼怪奇幻系列电影,https://live.metshop.top/yy/1353200190
 亲爱的热爱的,https://live.metshop.top/yy/1354932433
 洪金宝福星系列,https://live.metshop.top/yy/1354924839
 林正英 经典鬼片,https://live.metshop.top/yy/1353312849
 开饭了大熊猫,https://live.metshop.top/yy/1382741641
-�逋鞠盗�-国产喜剧,https://live.metshop.top/yy/1382736856
+逋鞠盗-国产喜剧,https://live.metshop.top/yy/1382736856
 24H欧美惊悚科幻,https://live.metshop.top/yy/1382656234
 父母的爱情,https://live.metshop.top/yy/1382768483
 精彩玄幻电影,https://live.metshop.top/yy/1382688400
@@ -2110,9 +2121,9 @@ YY恐怖电影,https://live.metshop.top/yy/24066336
 小欢喜,https://live.metshop.top/yy/1382737888
 与君初相识,https://live.metshop.top/yy/1352833750
 经典大片合集,https://live.metshop.top/yy/1382749895
-【义+】+奈奈新正在直播,https://live.metshop.top/yy/1462815850
-【义+】+奈奈新正在直播,https://live.metshop.top/yy/1462815850
-【与狼共舞】24h,https://live.metshop.top/yy/1355917294
+义++奈奈新正在直播,https://live.metshop.top/yy/1462815850
+义++奈奈新正在直播,https://live.metshop.top/yy/1462815850
+与狼共舞24h,https://live.metshop.top/yy/1355917294
 伪装者,https://live.metshop.top/yy/1354936244
 好先生,https://live.metshop.top/yy/29067617
 天下第一,https://live.metshop.top/yy/1355554637
@@ -2130,7 +2141,7 @@ YY恐怖电影,https://live.metshop.top/yy/24066336
 我的前半生,https://live.metshop.top/yy/1382735564
 盗慕笔记鬼灯,https://live.metshop.top/yy/1382765507
 情满四合院,https://live.metshop.top/yy/1382736848
-【电影】超然巨作,https://live.metshop.top/yy/26623173
+电影超然巨作,https://live.metshop.top/yy/26623173
 平凡岁月,https://live.metshop.top/yy/1382745117
 宝莲灯前传,https://live.metshop.top/yy/1354931631
 灌篮高手 正在直播,https://live.metshop.top/yy/1351417866
@@ -2138,8 +2149,8 @@ YY恐怖电影,https://live.metshop.top/yy/24066336
 魔幻手机,https://live.metshop.top/yy/1382735544
 木乃伊全集,https://live.metshop.top/yy/1354889024
 枕上书正在直播,https://live.metshop.top/yy/1351844200
-三国演义【1994】,https://live.metshop.top/yy/1354930932
-【电视剧】天下第一,https://live.metshop.top/yy/1354780649
+三国演义1994,https://live.metshop.top/yy/1354930932
+电视剧天下第一,https://live.metshop.top/yy/1354780649
 精彩动漫斗罗斗破,https://live.metshop.top/yy/76101626
 五号特工组,https://live.metshop.top/yy/1507704566
 热血战争巨作,https://live.metshop.top/yy/1382745087
@@ -2149,12 +2160,11 @@ YY恐怖电影,https://live.metshop.top/yy/24066336
 24小时播放,https://live.metshop.top/yy/29067083
 金婚,https://live.metshop.top/yy/1382736832
 TVB古装 经典金庸剧,https://live.metshop.top/yy/1355326475
-【玄幻电影】,https://live.metshop.top/yy/1355065896
-【动漫】斗罗斗破超清全屏,https://live.metshop.top/yy/1382689904
+玄幻电影,https://live.metshop.top/yy/1355065896
+动漫斗罗斗破超清全屏,https://live.metshop.top/yy/1382689904
 粉红女郎,https://live.metshop.top/yy/1354888671
-你最爱的宋小宝,https://live.metshop.top/yy/1354936198
 绝版鬼片 超恐怖,https://live.metshop.top/yy/1382788850
-【狂飙】4K,https://live.metshop.top/yy/1382773728
+狂飙4K,https://live.metshop.top/yy/1382773728
 家花与野花,https://live.metshop.top/yy/1354420982
 超级无敌吓人大片,https://live.metshop.top/yy/1354952229
 24小时小雅陪你看,https://live.metshop.top/yy/1331686180
@@ -2165,19 +2175,17 @@ TVB古装 经典金庸剧,https://live.metshop.top/yy/1355326475
 国内喜剧,https://live.metshop.top/yy/1382736862
 成龙系列,https://live.metshop.top/yy/1354888751
 夏洛特烦恼-国内电影-喜剧,https://live.metshop.top/yy/1354936201
-【案发现场】1-4部全集,https://live.metshop.top/yy/33567888
+案发现场1-4部全集,https://live.metshop.top/yy/33567888
 战狼7吴京退役,https://live.metshop.top/yy/1382773714
 福贵,https://live.metshop.top/yy/1354926537
 高分科幻动作片,https://live.metshop.top/yy/1382749948
 国威影院 仙侠系列,https://live.metshop.top/yy/1354866665
-【爱靓】虎子鬼片,https://live.metshop.top/yy/1356075628
-欢乐集结号,https://live.metshop.top/yy/1354931582
+爱靓虎子鬼片,https://live.metshop.top/yy/1356075628
 战狼10086,https://live.metshop.top/yy/1382773686
 大话西游至尊宝,https://live.metshop.top/yy/1382736910
 科幻电影,https://live.metshop.top/yy/1354930209
 影视剧场,https://live.metshop.top/yy/1355260855
 最美的青春,https://live.metshop.top/yy/1382745116
-贾玲春晚小品,https://live.metshop.top/yy/1382736720
 武林外传-超清下饭剧,https://live.metshop.top/yy/1353085648
 熊出没之探险日记S1-国漫,https://live.metshop.top/yy/1354930977
 国内喜剧,https://live.metshop.top/yy/1382735563
@@ -2194,16 +2202,15 @@ TVB古装 经典金庸剧,https://live.metshop.top/yy/1355326475
 欢乐一起看,https://live.metshop.top/yy/1354930926
 大汉贤后卫子夫,https://live.metshop.top/yy/1382735569
 灌篮高手,https://live.metshop.top/yy/1382735626
-宋小宝小品合集,https://live.metshop.top/yy/1354931577
+
+
 经典搞笑影片,https://live.metshop.top/yy/1382749878
 倚天屠龙记,https://live.metshop.top/yy/33300793
 小甜甜 勇敢的心,https://live.metshop.top/yy/1382658790
-【科幻】超炫特效,https://live.metshop.top/yy/37988782
+科幻超炫特效,https://live.metshop.top/yy/37988782
 炊事班的故事III,https://live.metshop.top/yy/1382736716
 你所喜欢的颖宝,https://live.metshop.top/yy/1456829119
 宫心计,https://live.metshop.top/yy/1382828769
-本山快乐营1,https://live.metshop.top/yy/1354936209
-宋小宝春晚小品合集,https://live.metshop.top/yy/1382736866
 最可爱的人,https://live.metshop.top/yy/1382779528
 法证先锋2,https://live.metshop.top/yy/1382736870
 香港院线大片-最新,https://live.metshop.top/yy/1354936242
@@ -2220,17 +2227,17 @@ M恐怖片正在直播,https://live.metshop.top/yy/1352956876
 陈情令,https://live.metshop.top/yy/1382745121
 你看与不看我都在,https://live.metshop.top/yy/1353422557
 战争大片,https://live.metshop.top/yy/1382736819
-【动漫】斗罗斗破,https://live.metshop.top/yy/35742228
+动漫斗罗斗破,https://live.metshop.top/yy/35742228
 降服魔女的手段-泰剧,https://live.metshop.top/yy/1354932405
-【微笑百事达】王心凌,https://live.metshop.top/yy/23458682
+微笑百事达王心凌,https://live.metshop.top/yy/23458682
 怀旧好电影,https://live.metshop.top/yy/1382627144
 金婚,https://live.metshop.top/yy/1382828768
 动漫奥斯卡正在直播,https://live.metshop.top/yy/1382626335
 现代军旅,https://live.metshop.top/yy/1382830638
-【周星驰】星爷 喜剧,https://live.metshop.top/yy/21092633
+周星驰星爷 喜剧,https://live.metshop.top/yy/21092633
 东北姑娘陪你看动漫,https://live.metshop.top/yy/1382609850
 天龙神雕经典回忆,https://live.metshop.top/yy/68260522
-【请进来观看】,https://live.metshop.top/yy/37033366
+请进来观看,https://live.metshop.top/yy/37033366
 主播-求关注.24小时,https://live.metshop.top/yy/1456625255
 X战警系列电影,https://live.metshop.top/yy/1382736893
 战争大片-国外电影,https://live.metshop.top/yy/1382736857
@@ -2240,7 +2247,6 @@ X战警系列电影,https://live.metshop.top/yy/1382736893
 毒液：致命守护者,https://live.metshop.top/yy/1382745095
 单挑荒野第一季,https://live.metshop.top/yy/1354933535
 铭记历史-甲午大海战,https://live.metshop.top/yy/1354936195
-欢乐集结号3,https://live.metshop.top/yy/1382736822
 九亿少女的噩梦,https://live.metshop.top/yy/1354921392
 远去的飞鹰-影视剧,https://live.metshop.top/yy/1354930912
 忠烈杨家将,https://live.metshop.top/yy/1382749909
@@ -2249,7 +2255,6 @@ X战警系列电影,https://live.metshop.top/yy/1382736893
 热门喜剧,https://live.metshop.top/yy/1354931495
 买车前看一看 不然血亏,https://live.metshop.top/yy/1349602814
 发哥系列,https://live.metshop.top/yy/1354888733
-欢乐集结号,https://live.metshop.top/yy/1382735550
 岳云鹏-屌丝也能追到美女,https://live.metshop.top/yy/1382736882
 超炫科幻大片,https://live.metshop.top/yy/1382736840
 密子君,https://live.metshop.top/yy/1382736717
@@ -2258,7 +2263,6 @@ X战警系列电影,https://live.metshop.top/yy/1382736893
 射雕英雄传之铁血丹心,https://live.metshop.top/yy/25221556
 经典电影 电视剧,https://live.metshop.top/yy/1354690927
 无敌县令,https://live.metshop.top/yy/1354932390
-小宝让你乐翻天：6到9集,https://live.metshop.top/yy/1354930971
 风靡全球的谍战片,https://live.metshop.top/yy/1382736817
 小戏骨黄飞鸿,https://live.metshop.top/yy/1354936181
 珍珠港-电影,https://live.metshop.top/yy/1354936234
@@ -2298,7 +2302,6 @@ X战警系列电影,https://live.metshop.top/yy/1382736893
 黑冰,https://live.metshop.top/yy/1354932427
 热血动作片合集,https://live.metshop.top/yy/1382735627
 给孩子补补榜吧,https://live.metshop.top/yy/1354887058
-怀旧小品,https://live.metshop.top/yy/1382736821
 国产喜剧,https://live.metshop.top/yy/1382735584
 再向虎山行,https://live.metshop.top/yy/1355823667
 国外黑色喜剧：冷幽默小剧场,https://live.metshop.top/yy/1382745175
@@ -2306,18 +2309,13 @@ X战警系列电影,https://live.metshop.top/yy/1382736893
 动物世界,https://live.metshop.top/yy/1382749889
 超激烈的猎食场面,https://live.metshop.top/yy/1382749898
 萌鸡小队S1-国漫,https://live.metshop.top/yy/1382736904
-小沈阳春晚小品,https://live.metshop.top/yy/1382749941
-公主嫁到,https://live.metshop.top/yy/1382736915
-欢乐集结号2,https://live.metshop.top/yy/1354930919
 老广的味道 第3季-美食纪录片,https://live.metshop.top/yy/1382735565
 大汉天子S1,https://live.metshop.top/yy/1382749902
 小小飞虎队,https://live.metshop.top/yy/1382749888
 一分钟学道菜,https://live.metshop.top/yy/1382736901
-欢乐集结号4,https://live.metshop.top/yy/1382736889
 探秘中华美食,https://live.metshop.top/yy/1354930954
 国内战争电影,https://live.metshop.top/yy/1382736865
 最后的狮子-探险纪录片,https://live.metshop.top/yy/1382735577
-赵本山爆笑小品2,https://live.metshop.top/yy/1354936217
 惊悚电影胆小勿进,https://live.metshop.top/yy/1508687423
 雷神系列,https://live.metshop.top/yy/1354932441
 飓风营救,https://live.metshop.top/yy/1382735547
@@ -2333,7 +2331,7 @@ X战警系列电影,https://live.metshop.top/yy/1382736893
 致敬星爷致敬经典,https://live.metshop.top/yy/1354889048
 炊事班的故事,https://live.metshop.top/yy/1382749901
 什么会让你快乐,https://live.metshop.top/yy/54886912
-【老九门】探险电视剧,https://live.metshop.top/yy/1355336008
+老九门探险电视剧,https://live.metshop.top/yy/1355336008
 大太监-tvb经典古装,https://live.metshop.top/yy/1382736886
 重生之超级赛亚人,https://live.metshop.top/yy/1354936124
 怪医文三块-影视剧,https://live.metshop.top/yy/1354936154
@@ -2349,7 +2347,7 @@ X战警系列电影,https://live.metshop.top/yy/1382736893
 国内动作大片,https://live.metshop.top/yy/1382749917
 动作大片,https://live.metshop.top/yy/1354888739
 一起合租的快乐生活~,https://live.metshop.top/yy/38525272
-【荒野求生】德爷 贝爷,https://live.metshop.top/yy/39123221
+荒野求生德爷 贝爷,https://live.metshop.top/yy/39123221
 名媛望族-精彩港剧,https://live.metshop.top/yy/1354932431
 名媛望族-精彩港剧,https://live.metshop.top/yy/1354932431
 觅食者-美食纪录片,https://live.metshop.top/yy/1382736841
@@ -2357,12 +2355,10 @@ X战警系列电影,https://live.metshop.top/yy/1382736893
 古装喜剧合集，还能玩起穿越？！,https://live.metshop.top/yy/1382749905
 老司机带你开眼界,https://live.metshop.top/yy/1349538007
 大江大河2-高分影视推荐,https://live.metshop.top/yy/1382736797
-欢乐集结号,https://live.metshop.top/yy/1382749911
 学生兵,https://live.metshop.top/yy/1354658003
 宇宙护卫队--国漫,https://live.metshop.top/yy/1382736837
 第8号当铺,https://live.metshop.top/yy/1382736905
 俺娘田小草,https://live.metshop.top/yy/1382741638
-本山快乐营,https://live.metshop.top/yy/1382736852
 红楼梦1987经典版,https://live.metshop.top/yy/1382745084
 国内科幻电影集合,https://live.metshop.top/yy/1354936221
 你不知道的黄河故事,https://live.metshop.top/yy/1382745189
@@ -2394,7 +2390,6 @@ X战警系列电影,https://live.metshop.top/yy/1382736893
 国内科幻片来袭,https://live.metshop.top/yy/1354930821
 香港动作大片,https://live.metshop.top/yy/1382736816
 史诗级战争大片,https://live.metshop.top/yy/1382745092
-本山快乐营-爆笑小品,https://live.metshop.top/yy/1354930948
 小鬼当家-童年回忆,https://live.metshop.top/yy/1382745104
 岳云鹏宋小宝也来演电影了？,https://live.metshop.top/yy/1354926612
 机械战警1-3,https://live.metshop.top/yy/1382736854
@@ -2416,12 +2411,11 @@ X战警系列电影,https://live.metshop.top/yy/1382736893
 上海滩,https://live.metshop.top/yy/1382745184
 蓝色星球-自然-纪录片,https://live.metshop.top/yy/1354930936
 野性欧洲,https://live.metshop.top/yy/1354926622
-欢乐集结号58-70,https://live.metshop.top/yy/1382745119
 无敌解压,https://live.metshop.top/yy/1382736897
 一城一味（舌尖姐妹篇）,https://live.metshop.top/yy/1382745179
 爱的迫降-韩剧,https://live.metshop.top/yy/1354889042
 外国战争大片,https://live.metshop.top/yy/1382736872
-【陪你看】金刚葫芦娃,https://live.metshop.top/yy/1353323999
+陪你看金刚葫芦娃,https://live.metshop.top/yy/1353323999
 漫画解说,https://live.metshop.top/yy/1382735568
 吐槽大会 第2季,https://live.metshop.top/yy/1354936145
 小生物的故事,https://live.metshop.top/yy/1382736834
@@ -2451,7 +2445,6 @@ X战警系列电影,https://live.metshop.top/yy/1382736893
 刺激！国外战争,https://live.metshop.top/yy/1354936142
 编辑部的故事,https://live.metshop.top/yy/1354936120
 德鲁纳酒店-韩剧,https://live.metshop.top/yy/1354931488
-笑傲江湖 第1季,https://live.metshop.top/yy/1382749896
 港片经典百万部,https://live.metshop.top/yy/1355122314
 深海利剑,https://live.metshop.top/yy/1382736906
 热播国内侦探片,https://live.metshop.top/yy/1382736820
@@ -2466,7 +2459,7 @@ X战警系列电影,https://live.metshop.top/yy/1382736893
 欢迎来到爆笑剧场,https://live.metshop.top/yy/1382736916
 丁大命,https://live.metshop.top/yy/1382735579
 国外侦探,https://live.metshop.top/yy/1382736896
-【B82】晨晨,https://live.metshop.top/yy/1355733616
+B82晨晨,https://live.metshop.top/yy/1355733616
 家有九凤-影视剧,https://live.metshop.top/yy/1354930894
 红色经典影视剧-风语,https://live.metshop.top/yy/1354926671
 电影 正在直播,https://live.metshop.top/yy/1355370824
@@ -2474,7 +2467,6 @@ X战警系列电影,https://live.metshop.top/yy/1382736893
 敏敏正在直播,https://live.metshop.top/yy/1355226280
 炊事班的故事,https://live.metshop.top/yy/1382646846
 法证先锋,https://live.metshop.top/yy/1354930965
-笑傲江湖 第2季,https://live.metshop.top/yy/1382736914
 战狼3,https://live.metshop.top/yy/1355913027
 仙女影视,https://live.metshop.top/yy/1356038038
 记忆中的TVB,https://live.metshop.top/yy/1382749951
@@ -2482,10 +2474,8 @@ X战警系列电影,https://live.metshop.top/yy/1382736893
 憨豆先生-经典喜剧,https://live.metshop.top/yy/1354936239
 失忆24小时,https://live.metshop.top/yy/1382741640
 金三角大营救,https://live.metshop.top/yy/1354930924
-本山快乐营,https://live.metshop.top/yy/1354933529
 国外战争,https://live.metshop.top/yy/1382735571
 冲上云霄2,https://live.metshop.top/yy/1354933556
-本山快乐营2,https://live.metshop.top/yy/1382736718
 国内科幻片,https://live.metshop.top/yy/1382745110
 动作大片,https://live.metshop.top/yy/1354930816
 嫦娥,https://live.metshop.top/yy/1354658064
@@ -2509,14 +2499,12 @@ oh我的鬼神大人-韩剧,https://live.metshop.top/yy/1354936160
 法证先锋Ⅳ,https://live.metshop.top/yy/1354932426
 催泪战争,https://live.metshop.top/yy/1382745124
 霸道总裁爱上女秘书,https://live.metshop.top/yy/1354936167
-开心麻花街,https://live.metshop.top/yy/1354926643
 换子成龙-影视剧,https://live.metshop.top/yy/1354932397
 金装四大才子,https://live.metshop.top/yy/1354926600
 一起来笑吧,https://live.metshop.top/yy/1454859415
 宫心计-港剧-古装,https://live.metshop.top/yy/1354933540
 攻壳机动队,https://live.metshop.top/yy/1382745089
 热播喜剧,https://live.metshop.top/yy/1354936169
-花儿开心吧-小品,https://live.metshop.top/yy/1382736917
 非诚勿扰,https://live.metshop.top/yy/1382745106
 丈夫在外有人？真相竟然是！,https://live.metshop.top/yy/1354932375
 了不起的萝莉小玲,https://live.metshop.top/yy/1382736799
@@ -2533,18 +2521,14 @@ oh我的鬼神大人-韩剧,https://live.metshop.top/yy/1354936160
 翡翠凤凰-影视剧,https://live.metshop.top/yy/1354926666
 大家都在看的警匪片,https://live.metshop.top/yy/1354930964
 百家讲坛-红楼梦篇,https://live.metshop.top/yy/1382741639
-王牌逗王牌-喜剧,https://live.metshop.top/yy/1354658048
-吐槽大会 第5季,https://live.metshop.top/yy/1354889009
-【陪你看】金刚葫芦娃,https://live.metshop.top/yy/1353323999
+陪你看金刚葫芦娃,https://live.metshop.top/yy/1353323999
 溏心风暴之家好月圆,https://live.metshop.top/yy/1354888747
 国内战争,https://live.metshop.top/yy/1354930204
 摔跤吧爸爸！院线大片,https://live.metshop.top/yy/1382736851
 仙灵儿,https://live.metshop.top/yy/1382736887
 风云雄霸天下,https://live.metshop.top/yy/1508778705
 大酱园,https://live.metshop.top/yy/1382736824
-巩汉林春晚小品合集,https://live.metshop.top/yy/1354889035
 大力女都奉顺-韩剧,https://live.metshop.top/yy/1382735542
-喜乐街,https://live.metshop.top/yy/1354936231
 姜小妞,https://live.metshop.top/yy/1353879416
 国外院线动作大片,https://live.metshop.top/yy/1382735570
 守望的天空,https://live.metshop.top/yy/1382736843
@@ -2588,95 +2572,15 @@ oh我的鬼神大人-韩剧,https://live.metshop.top/yy/1354936160
 国外动作片,https://live.metshop.top/yy/1382749913
 超燃动作片,https://live.metshop.top/yy/1354936199
 国外侦探电影,https://live.metshop.top/yy/1382745099
-【陪你看】新水浒传,https://live.metshop.top/yy/38090300
+陪你看新水浒传,https://live.metshop.top/yy/38090300
 修牛蹄,https://live.metshop.top/yy/1353413683
-【红球】不扯蛋,https://live.metshop.top/yy/1355084841
+红球不扯蛋,https://live.metshop.top/yy/1355084841
 新手主播天花板,https://live.metshop.top/yy/1355827783
 芝正在直播,https://live.metshop.top/yy/1352488363
 星爷合集,https://live.metshop.top/yy/1382833670
 10年没洗的地毯,https://live.metshop.top/yy/1354931585
 相声相声搜38528频道,https://live.metshop.top/yy/34025318
 
-🇨🇳 埋堆,#genre#
-埋堆堆1,http://43.128.40.42:198/虎牙直播/huya.php?id=23865152
-埋堆堆2,http://43.128.40.42:198/虎牙直播/huya.php?id=23735126
-埋堆堆3,http://43.128.40.42:198/虎牙直播/huya.php?id=23749096
-埋堆堆4,http://43.128.40.42:198/虎牙直播/huya.php?id=23903196
-埋堆堆5,http://43.128.40.42:198/虎牙直播/huya.php?id=23740156
-埋堆堆6,http://43.128.40.42:198/虎牙直播/huya.php?id=23865058
-埋堆堆7,http://43.128.40.42:198/虎牙直播/huya.php?id=23734183
-埋堆堆8,http://43.128.40.42:198/虎牙直播/huya.php?id=23865036
-埋堆堆9,http://43.128.40.42:198/虎牙直播/huya.php?id=23863796
-埋堆堆11,http://43.128.40.42:198/虎牙直播/huya.php?id=23863804
-埋堆堆12,http://43.128.40.42:198/虎牙直播/huya.php?id=23865142
-埋堆堆13,http://43.128.40.42:198/虎牙直播/huya.php?id=23903183
-埋堆堆14,http://43.128.40.42:198/虎牙直播/huya.php?id=23903130
-埋堆堆15,http://43.128.40.42:198/虎牙直播/huya.php?id=23734169
-埋堆堆16,http://43.128.40.42:198/虎牙直播/huya.php?id=23728674
-埋堆堆17,http://43.128.40.42:198/虎牙直播/huya.php?id=23865080
-埋堆堆18,http://43.128.40.42:198/虎牙直播/huya.php?id=23734246
-埋堆堆19,http://43.128.40.42:198/虎牙直播/huya.php?id=23728660
-埋堆堆1,https://live.metshop.top/huya/23749096
-埋堆堆2,https://live.metshop.top/huya/23735126
-埋堆堆3,https://live.metshop.top/huya/23865152
-埋堆堆4,https://live.metshop.top/huya/23903196
-埋堆堆5,https://live.metshop.top/huya/23740156
-埋堆堆6,https://live.metshop.top/huya/23728660
-埋堆堆7,https://live.metshop.top/huya/23735153
-埋堆堆8,https://live.metshop.top/huya/23865058
-埋堆堆9,https://live.metshop.top/huya/23734183
-埋堆堆10,https://live.metshop.top/huya/23749068
-埋堆堆11,https://live.metshop.top/huya/23865036
-埋堆堆12,https://live.metshop.top/huya/23740162
-埋堆堆13,https://live.metshop.top/huya/23829474
-埋堆堆14,https://live.metshop.top/huya/23863833
-埋堆堆15,https://live.metshop.top/huya/23903106
-埋堆堆16,https://live.metshop.top/huya/23865025
-埋堆堆17,https://live.metshop.top/huya/23728689
-埋堆堆18,https://live.metshop.top/huya/23824171
-埋堆堆19,https://live.metshop.top/huya/23860057
-埋堆堆20,https://live.metshop.top/huya/23865072
-埋堆堆21,https://live.metshop.top/huya/23734176
-埋堆堆22,https://live.metshop.top/huya/23728651
-埋堆堆23,https://live.metshop.top/huya/23734246
-埋堆堆24,https://live.metshop.top/huya/23865179
-埋堆堆25,https://live.metshop.top/huya/23734196
-埋堆堆26,https://live.metshop.top/huya/23734211
-埋堆堆27,https://live.metshop.top/huya/23865086
-埋堆堆28,https://live.metshop.top/huya/23863796
-埋堆堆29,https://live.metshop.top/huya/23863822
-埋堆堆30,https://live.metshop.top/huya/23749083
-埋堆堆31,https://live.metshop.top/huya/23734243
-埋堆堆32,https://live.metshop.top/huya/23864480
-埋堆堆33,https://live.metshop.top/huya/23746486
-埋堆堆34,https://live.metshop.top/huya/23860049
-埋堆堆35,https://live.metshop.top/huya/23749074
-埋堆堆36,https://live.metshop.top/huya/23863882
-埋堆堆37,https://live.metshop.top/huya/23863778
-埋堆堆38,https://live.metshop.top/huya/23824164
-埋堆堆39,https://live.metshop.top/huya/23829537
-埋堆堆40,https://live.metshop.top/huya/23863809
-埋堆堆41,https://live.metshop.top/huya/23865096
-埋堆堆42,https://live.metshop.top/huya/23863804
-埋堆堆43,https://live.metshop.top/huya/23728630
-埋堆堆44,https://live.metshop.top/huya/23863895
-埋堆堆45,https://live.metshop.top/huya/23863787
-埋堆堆46,https://live.metshop.top/huya/23728637
-埋堆堆47,https://live.metshop.top/huya/23865142
-埋堆堆48,https://live.metshop.top/huya/23903085
-埋堆堆49,https://live.metshop.top/huya/23903183
-埋堆堆50,https://live.metshop.top/huya/23728647
-埋堆堆51,https://live.metshop.top/huya/23746691
-埋堆堆52,https://live.metshop.top/huya/23829447
-埋堆堆53,https://live.metshop.top/huya/23728693
-埋堆堆54,https://live.metshop.top/huya/23903130
-埋堆堆55,https://live.metshop.top/huya/23734223
-埋堆堆56,https://live.metshop.top/huya/23734169
-埋堆堆57,https://live.metshop.top/huya/23865124
-埋堆堆58,https://live.metshop.top/huya/23865186
-埋堆堆59,https://live.metshop.top/huya/23902225
-埋堆堆60,https://live.metshop.top/huya/23903164
-埋堆堆61,https://live.metshop.top/huya/23728674
 
 
 🇨🇳  轮播,#genre#
