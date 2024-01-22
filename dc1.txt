@@ -1,0 +1,8 @@
+{"urls":[
+ {"name": "🛸𝒁𝒅𝒎影视 4K专线 ","url": "https://gitee.com/zoudeming828/ff/raw/master/ff4k.json"},
+ {"name": "🚀𝒁𝒅𝒎影视 多多 ","url": "https://gitee.com/zoudeming828/dd/raw/master/api.json"},
+ {"name": "🌸𝒁𝒅𝒎影视 荷荷 ","url": "https://gitee.com/zoudeming828/hc/raw/master/api.json"}, 
+ {"name": "👀𝒁𝒅𝒎影视  PG  ","url": "https://gitee.com/zoudeming828/Movies/raw/master/PG/api.json"},
+ {"name": "👽𝒁𝒅𝒎影视 饭饭 ","url": "https://gitee.com/zoudeming828/ff/raw/master/api.json"},
+ {"name": "😾𝒁𝒅𝒎影视 猫猫 ","url": "https://gitee.com/zoudeming828/fm/raw/master/api.json"}]
+}
