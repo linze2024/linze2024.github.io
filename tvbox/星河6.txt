@@ -1,0 +1,83 @@
+{"urls":[
+
+//自用DIY
+{"name":"🌸林泽自用_xyq","url":"https://jihulab.com/linzetv/tvbox/-/raw/main/xyq/xyq.json"},
+{"name":"🌸林泽自用_js","url":"https://jihulab.com/linzetv/tvbox/-/raw/main/JS/js.json"},
+{"name":"🌸林泽自用_fty","url":"https://jihulab.com/linzetv/tvbox/-/raw/main/fantaiying/fantaiying.json"},
+{"name":"🌸林泽自用_duo","url":"https://jihulab.com/linzetv/tvbox/-/raw/main/duoduo/duoduo.json"},
+
+//ZDM在线
+//{"name":"😾𝒁𝒅𝒎影视本地仓库在线","url":"https://gitee.com/algernonyin/tvbox/raw/master/本地仓库.json"},
+{"name":"🛸𝒁𝒅𝒎影视4K专线","url":"https://gitee.com/zoudeming828/ff/raw/master/ff4k.json"},
+{"name":"🚀𝒁𝒅𝒎影视多多","url":"https://gitee.com/zoudeming828/dd/raw/master/api.json"},
+{"name":"🌸𝒁𝒅𝒎影视荷荷","url":"https://gitee.com/zoudeming828/hc/raw/master/api.json"},
+{"name":"👀𝒁𝒅𝒎影视PG","url":"https://gitee.com/zoudeming828/Movies/raw/master/PG/api.json"},
+{"name":"👽𝒁𝒅𝒎影视饭饭","url":"https://gitee.com/zoudeming828/ff/raw/master/api.json"},
+{"name":"😾𝒁𝒅𝒎影视猫猫","url":"https://gitee.com/zoudeming828/fm/raw/master/api.json"},
+{"name":"😾𝒁𝒅𝒎影视狐狸","url":"https://gitee.com/luckyflower01/tvjson/raw/master/my.json"},
+
+{"name":"🎀‖讴歌在线","url":"http://m.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2"},
+{"name":"🎀‖南风在线","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
+{"name":"🎀‖饭硬在线","url":"http://饭太硬.top/tv"},
+{"name":"🎀‖肥猫在线","url":"http://肥猫.live"},
+{"name":"🎀‖小米在线","url":"http://xhww.fun:63/小米/DEMO.json"},
+{"name":"🎀‖业余在线","url":"https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydfjk.json"},
+{"name":"🎀‖菜斯在线","url":"https://tvbox.cainisi.cf"},
+{"name":"🎀‖云星在线","url":"http://itvbox.cc/tvbox/云星日记/1.m3u8"},
+{"name":"🎀‖荷城在线","url":"http://rihou.cc:88/荷城茶秀"},
+{"name":"🎀‖运输在线","url":"http://tvkj.top/DC/ysc/tvkj/svip.json"},
+
+//网络在线
+{"url": "https://gitee.com/algernonyin/tvbox/raw/master/lib/无忧.json","name":"无忧总线路"},
+{"url": "https://gitee.com/algernonyin/tvbox/raw/master/lib/无忧TV.json","name":"无忧普通线路"},
+{"url": "https://gitee.com/algernonyin/tvbox/raw/master/lib/无忧ali.json","name":"无忧阿里线路"},
+{"url": "https://gitee.com/algernonyin/tvbox/raw/master/lib/儿童.txt","name":"儿童课堂线路"},
+{"url": "https://gitee.com/algernonyin/tvbox/raw/master/lib/云星家庭.json","name":"云星家庭线路"},
+{"url": "https://gitee.com/algernonyin/tvbox/raw/master/Hk/XYQTVBox.txt","name":"香雅晴线路"},
+{"url": "https://gitee.com/algernonyin/tvbox/raw/master/lib/夜魔.txt","name":"夜魔线路"},
+{"url": "https://gitee.com/algernonyin/tvbox/raw/master/lib/无名.txt","name":"无名线路"},
+{"url": "https://gitee.com/algernonyin/tvbox/raw/master/lib/动漫.txt","name":"动漫线路"},
+{"url": "https://gitee.com/algernonyin/tvbox/raw/master/JS/js.json","name":"JS线路"},
+{"url": "https://gitee.com/algernonyin/tvbox/raw/master/pg/jsm.json","name":"pg专线"},
+{"url": "https://gitee.com/algernonyin/tvbox/raw/master/lib/ok.txt","name":"ok影视专线"},
+{"url": "https://gitee.com/algernonyin/tvbox/raw/master/lib/弯弯.txt","name":"弯弯线路"},
+{"url": "https://gitee.com/algernonyin/tvbox/raw/master/lib/cms.txt","name":"CMS线路"},
+{"url": "https://gitee.com/algernonyin/tvbox/raw/master/lib/俊佬.txt","name":"俊佬线路"},
+{"url": "https://gitee.com/algernonyin/tvbox/raw/master/lib/月光.json","name":"月光PLUS线路"},
+{"url": "https://gitee.com/algernonyin/tvbox/raw/master/lib/巧技.txt","name":"巧技线路"},
+{"url": "https://gitee.com/algernonyin/tvbox/raw/master/lib/菜妮丝.txt","name":"菜妮丝线路"},
+{"url": "https://gitee.com/algernonyin/tvbox/raw/master/lib/影探.txt","name":"影探线路"},
+{"url": "https://gitee.com/algernonyin/tvbox/raw/master/lib/老刘备.json","name":"老刘备线路"},
+{"url": "https://gitee.com/algernonyin/tvbox/raw/master/lib/小米.txt","name":"小米线路"},
+{"url": "https://gitee.com/algernonyin/tvbox/raw/master/lib/肥猫.txt","name":"肥猫线路"},
+{"url": "https://gitee.com/algernonyin/tvbox/raw/master/lib/饭太硬.txt","name":"饭太硬线路"},
+{"url": "https://gitee.com/algernonyin/tvbox/raw/master/lib/南风XC.txt","name":"南风XC线路"},
+{"url": "https://gitee.com/algernonyin/tvbox/raw/master/lib/多多.txt","name":"多多线路"},
+{"url": "https://gitee.com/algernonyin/tvbox/raw/master/lib/运输车.txt","name":"运输车线路"},
+{"url": "https://gitee.com/algernonyin/tvbox/raw/master/lib/分享者.json","name":"分享者线路"},
+{"url": "https://gitee.com/algernonyin/tvbox/raw/master/lib/小马.txt","name":"小马线路"},
+
+//本地仓库位置：
+{"url":"","name":"===↓==下面本地仓库==↓==="},
+{"url":"clan://localhost/Download/tvboxqq/饭太硬/api.json","name":"🏡本地仓_饭硬"},
+{"url":"clan://localhost/Download/tvboxqq/小米/api.json","name":"🏡本地仓_小米"},
+{"url":"clan://localhost/Download/tvboxqq/肥猫/api.json","name":"🏡本地仓_肥猫"},
+{"url":"clan://localhost/Download/tvboxqq/香雅情XYQ/api.json","name":"🏡本地仓_香雅"},
+{"url":"clan://localhost/Download/tvboxqq/道长JS/api.json","name":"🏡本地仓_道长"},
+{"url":"clan://localhost/Download/tvboxqq/巧技/api.json","name":"🏡本地仓_巧技"},
+{"url":"clan://localhost/Download/tvboxqq/菜妮丝/api.json","name":"🏡本地仓_菜妮"},
+{"url":"clan://localhost/Download/tvboxqq/多多/api.json","name":"🏡本地仓_多多"},
+{"url":"clan://localhost/Download/tvboxqq/南风/api.json","name":"🏡本地仓_南风"},
+{"url":"clan://localhost/Download/tvboxqq/荷城茶秀/api.json","name":"🏡本地仓_荷城"},
+{"url":"clan://localhost/Download/tvboxqq/少儿频道/api.json","name":"🏡本地仓_少儿"},
+{"url":"clan://localhost/Download/tvboxqq/动漫频道/api.json","name":"🏡本地仓_动漫"}
+
+
+
+
+
+
+
+
+
+]}
