@@ -1,0 +1,22 @@
+{"storeHouse": [
+{"sourceName":"林泽影视仓①","sourceUrl":"https://jihulab.com/linzetv/tvbox/ysc/-/raw/main/linzetv_jh_ysc_dcjk_oldhome.txt"}
+//{"sourceName":"林泽影视仓②","sourceUrl":"https://gitee.com/linzeasd/linzetv/raw/master/home/银河1.txt"},
+//{"sourceName":"林泽影视仓③","sourceUrl":"https://gitee.com/algernonyin/tvbox/raw/master/本地仓库.json"},
+
+
+//{"sourceName":"银河系①","sourceUrl":"https://pan.shangui.cc/f/KDpQc6/%EF%BB%BF%E8%9A%82%E8%9A%81%E7%AA%9D1%E5%B1%80.txt"},
+//{"sourceName":"银河系②","sourceUrl":"https://pan.shangui.cc/f/mBYNHb/%E8%9A%82%E8%9A%81%E7%AA%9D2%E5%B1%80.txt"},
+//{"sourceName":"银河系③","sourceUrl":"https://pan.shangui.cc/f/X2yqFd/%E8%9A%82%E8%9A%81%E7%AA%9D3%E5%B1%80.txt"},
+//{"sourceName":"银河系④","sourceUrl":"https://pan.shangui.cc/f/vYYnHk/%E8%9A%82%E8%9A%81%E7%AA%9D4.txt"},
+//{"sourceName":"银河系⑤","sourceUrl":"https://agit.ai/hu/hcr/raw/branch/master/99668.txt"},
+//{"sourceName":"银河系⑥","sourceUrl":"https://jihulab.com/linzetv/tvbox/-/raw/main/linzetv_jh_ysc_dcjk.txt"},
+//{"sourceName":"银河系⑦","sourceUrl":""},
+//{"sourceName":"银河系⑧","sourceUrl":""},
+//{"sourceName":"银河系⑨","sourceUrl":""},
+//{"sourceName":"银河系⑩","sourceUrl":""},
+//{"name":"😾𝒁𝒅𝒎影视本地仓库多仓在线","url":"https://gitee.com/algernonyin/tvbox/raw/master/本地仓库.json"},
+
+
+
+]}
+
