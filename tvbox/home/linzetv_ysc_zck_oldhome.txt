@@ -1,5 +1,5 @@
 {"storeHouse": [
-{"sourceName":"林泽影视仓①","sourceUrl":"https://jihulab.com/linzetv/tvbox/ysc/-/raw/main/linzetv_jh_ysc_dcjk_oldhome.txt"}
+{"sourceName":"林泽影视仓①","sourceUrl":"https://jihulab.com/linzetv/tvbox/-/raw/main/linzetv_jh_ysc_dcjk_oldhome.txt"}
 //{"sourceName":"林泽影视仓②","sourceUrl":"https://gitee.com/linzeasd/linzetv/raw/master/home/银河1.txt"},
 //{"sourceName":"林泽影视仓③","sourceUrl":"https://gitee.com/algernonyin/tvbox/raw/master/本地仓库.json"},
 
