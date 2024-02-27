@@ -22,6 +22,20 @@
             "ext": "./diy/live2mv_data.json",
             "jar": "./diy/f.jar"
             },
+{
+        
+            "key":"lf_js_lf_live",
+            "name":"🇨🇳电视直播②",
+            "type":3,
+            "api":"./diy/lf_live_min.js",
+            "style":{ "type":"oval"},
+            "searchable":1,
+            "changeable":0,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"./diy/lf_live.txt"
+         
+         },
         {
             "key": "JustLive",
             "name": "Just┃直播",
