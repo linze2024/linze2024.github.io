@@ -441,8 +441,8 @@
             ]
         },
         
-           {"key": "量子2",
-            "name": "量子┃影视2",
+           {"key": "量子",
+            "name": "量子┃影视",
             "type": 1,
             "api": "https://cj.lziapi.com/api.php/provide/vod",
             "searchable": 1,
@@ -480,22 +480,6 @@
                 "日韩综艺",
                 "欧美综艺"
             ]
-        },
-//       {
-//            "key": "非凡",
-//           "name": "非凡┃影视",
-//            "type": 1,
-//            "api": "http://cj.ffzyapi.com/api.php/provide/vod",
-//            "searchable": 1,
-//            "changeable": 1
-//        },
-        {
-            "key": "量子",
-            "name": "量子┃影视",
-            "type": 1,
-            "api": "https://cj.lziapi.com/api.php/provide/vod",
-            "searchable": 1,
-            "changeable": 1
         },
         {
             "key": "鲲娱七七",
@@ -743,7 +727,7 @@
         },
         {
             "key": "说明1",
-            "name": "https://cainisi.cf",
+            "name": "linze_git_cns_xyq",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 0,
